@@ -3,6 +3,11 @@
 <!--
 **dnutiu/dnutiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
+
+![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/languages.svg)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
