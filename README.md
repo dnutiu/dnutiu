@@ -2,7 +2,6 @@
 
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
-
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/languages.svg)
 
 <!--
