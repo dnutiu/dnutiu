@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello, my name is Denis.
+
+I’m a programmer living in Romania. I’m passionate about cloud computing and software development.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/languages.svg)
