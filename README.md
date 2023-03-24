@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I’m a programmer living in Romania. I’m passionate about cloud computing and software development.
+🧑‍💻
+
+I’m a programmer living in 🇷🇴 Romania. I’m passionate about **cloud computing** and **software development** ✨.
+
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/denisnutiu/). I run a personal tech blog on [https://nuculabs.dev](https://nuculabs.dev).
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/languages.svg)
