@@ -4,13 +4,15 @@
 
 I’m Denis, a programmer living in 🇷🇴 Romania. I’m passionate about **cloud computing** and **software development** ✨.
 
-During my day to day work I develop software in Python, Go, JavaScript and Java. I've been working on CLIs, microservices, back-end web applications, Apache Flink jobs and single page web applications with Vue.JS. I also have some experience with DevOps -- I've configured a microk8s Kubernetes cluster and deployed my services along with ElasticSearch, MongoDB, Apache Kafka, Apache Cassandra, Loki Stack and ClickHouse.
+During my day to day work I develop software in Python, Go, JavaScript and Java. I've been working on CLIs, microservices, back-end web applications, Apache Flink jobs and single page web applications with Vue.JS. I also have some experience with DevOps, I've configured a microk8s Kubernetes cluster and deployed my services along with ElasticSearch, MongoDB, Apache Kafka, Apache Cassandra, Loki Stack and ClickHouse.
+
+At home I use Linux & Windows and at the job I currently use a MacOS system, previously I've used Linux. 👾
 
 I like writing tests and docummentation for the stuff I'm building 😄. 
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/denisnutiu/).
+You can reach me on 📫 [LinkedIn](https://www.linkedin.com/in/denisnutiu/).
 
-I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts.
+I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts 💬.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/languages.svg)
