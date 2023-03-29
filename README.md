@@ -4,7 +4,7 @@
 
 I’m Denis, a programmer living in 🇷🇴 Romania. I’m passionate about **cloud computing** and **software development** ✨.
 
-During my day to day work I develop software in Python, Go, JavaScript and Java. 🪛
+During my day to day work I develop software in Python, Go, JavaScript and sometimes Java. 🪛
 
 I have worked on CLIs, microservices, back-end web applications, Restful APIs, gRPC APIs Apache Flink jobs and single page web applications with Vue.JS. 
 
