@@ -12,7 +12,7 @@ Outside of Software Development I have some experience with DevOps. I've configu
 
 At home I use Linux & Windows and at the job I currently use a MacOS system, previously I've used Linux. 👾
 
-I like writing tests and docummentation for the stuff I'm building 😄. 
+I like writing tests and documentation for the stuff I'm building 😄. 
 
 You can reach me on 📫 [LinkedIn](https://www.linkedin.com/in/denisnutiu/).
 
