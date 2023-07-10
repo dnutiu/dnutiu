@@ -4,7 +4,7 @@
 
 I’m Denis, a programmer living in 🇷🇴 Romania. I’m passionate about **cloud computing** and **software development** ✨.
 
-During my day to day work I develop software in Python, Go, JavaScript and sometimes Java. 🪛
+During my day to day work I develop software in Python, Go, JavaScript, C# and sometimes Java. 🪛
 
 I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts 💬.
 
