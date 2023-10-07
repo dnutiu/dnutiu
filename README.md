@@ -4,7 +4,7 @@
 
 I’m Denis, a programmer living in 🇷🇴 Romania. I’m passionate about **software development** ✨.
 
-During my day to day work I develop cloud native software :D.
+During my day to day work I develop cloud native software.
 
 I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts 💬.
 
