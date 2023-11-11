@@ -3,6 +3,7 @@
 🧑‍💻
 
 I’m Denis, a programmer living in 🇷🇴 Romania. I’m passionate about **software development** ✨.
+
 I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts 💬.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
