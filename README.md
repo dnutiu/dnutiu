@@ -4,6 +4,8 @@
 
 I’m Denis, a programmer living in 🇷🇴 Romania. I’m passionate about **software development** ✨.
 
+During my day-to-day work, I develop backend services, CLIs and web applications in Python, Go and other languages depending on the project. Kubernetes is my tool of choice for deploying and managing applications in the cloud.
+
 I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts 💬.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
