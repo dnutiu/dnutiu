@@ -5,10 +5,10 @@
 I’m Denis, a software engineer living in Romania. ✨.
 
 - 🔭 I’m currently working on web applications and microservices.
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on open source projects that I use daily.
 - 💬 Ask me about anything tech related.
-
+- 📫 How to reach me: LinkedIn, Email or X (formerly Twitter).
 
 I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts 💬.
 
