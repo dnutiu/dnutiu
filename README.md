@@ -1,8 +1,5 @@
-### Hi there 👋
-
-🧑‍💻
-
-I’m Denis, a software engineer living in Romania. ✨.
+# Hi there 👋
+## 🧑‍💻 I’m Denis, a software engineer living in Romania. ✨.
 
 - 🔭 I’m currently working on web applications and microservices.
 - 🌱 I’m currently learning Kotlin.
