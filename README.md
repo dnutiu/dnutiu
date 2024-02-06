@@ -1,8 +1,8 @@
 # Hi there 👋
-## 🧑‍💻 I’m Denis, a software engineer living in Romania. ✨.
+## 🧑‍💻 I’m Denis, a professional Software Engineer. ✨.
 
 - 🔭 I’m currently working on web applications and microservices.
-- 🌱 I’m currently learning Kotlin and reading "The Software Engineer's Guidebook: Navigating senior, tech lead, and staff engineer positions at tech companies and startups" by Gergely Orosz.
+- 🌱 I’m currently learning Kotlin and I'm reading Incerto series from Nassim Taleb.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: LinkedIn, Email or X (formerly Twitter).
 
