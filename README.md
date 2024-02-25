@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 🧑‍💻 I’m Denis, a professional Software Engineer. ✨.
 
-Out of curiosity and for personal projects I've dabbled with a lot of programming languages and technologies. 
+Out of curiosity I've dabbled in a lot of programming languages and technologies. 
 
 - 🔭 I’m currently working on web applications and microservices.
 - 🌱 I’m currently learning Rust.
