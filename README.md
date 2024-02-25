@@ -1,6 +1,8 @@
 # Hi there 👋
 ## 🧑‍💻 I’m Denis, a professional Software Engineer. ✨.
 
+Out of curiosity and for personal projects I've dabbled with a lot of programming languages and technologies. 
+
 - 🔭 I’m currently working on web applications and microservices.
 - 🌱 I’m currently learning Rust.
 - 📚 I'm reading Incerto series from Nassim Taleb, Digital Fundamentals from Thomas L.Floyd and various tech books.
