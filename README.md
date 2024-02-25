@@ -7,7 +7,7 @@
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: LinkedIn, Email or X (formerly Twitter).
 
-I also run a personal blog on [https://nuculabs.dev](https://nuculabs.dev) in which I write various technical posts 💬.
+I also run a personal blog on [https://nuculabs.dev](https://blog.nuculabs.dev) in which I write various technical posts 💬.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dnutiu&hide=c%2B%2B,html,processing,ruby,cmake,makefile,scss,stylus,blade,typescript,arduino,jupyter%20notebook,css,shell,batchfile,dockerfile,C++&show_icons=true&hide_progress=true)
