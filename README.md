@@ -2,7 +2,8 @@
 ## 🧑‍💻 I’m Denis, a professional Software Engineer. ✨.
 
 - 🔭 I’m currently working on web applications and microservices.
-- 🌱 I’m currently learning Rust and I'm reading Incerto series from Nassim Taleb, Digital Fundamentals from Thomas L.Floyd and various tech books.
+- 🌱 I’m currently learning Rust.
+- 📚 I'm reading Incerto series from Nassim Taleb, Digital Fundamentals from Thomas L.Floyd and various tech books.
 - 💬 Ask me about anything tech related.
 - 📫 How to reach me: LinkedIn, Email or X (formerly Twitter).
 
