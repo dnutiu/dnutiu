@@ -1,15 +1,9 @@
 # Hi there 👋
 ## 🧑‍💻 I’m Denis, a professional Software Engineer. ✨.
 
-Out of curiosity I've dabbled in a lot of programming languages and technologies. 
+I've dabbled in a lot of programming languages and technologies. 
 
-- 🔭 I’m currently working on web applications and microservices.
-- 🌱 I’m currently learning Rust.
-- 📚 I'm reading Incerto series from Nassim Taleb, Digital Fundamentals from Thomas L.Floyd and various tech books.
-- 💬 Ask me about anything tech related.
-- 📫 How to reach me: LinkedIn, Email or X (formerly Twitter).
-
-I also run a personal blog on [https://nuculabs.dev](https://blog.nuculabs.dev) in which I write various technical posts 💬.
+You can read my personal blog at [https://nuculabs.dev](https://blog.nuculabs.dev) on which I write various technical posts 💬.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dnutiu&hide=c%2B%2B,html,processing,ruby,cmake,makefile,scss,stylus,blade,typescript,arduino,jupyter%20notebook,css,shell,batchfile,dockerfile,C++&show_icons=true&hide_progress=true)
