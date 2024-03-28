@@ -6,7 +6,7 @@ On my GitHub I host my personal projects and my blog.
 You can read my personal blog at [https://nuculabs.dev](https://blog.nuculabs.dev) on which I write various technical posts 💬.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dnutiu&hide=c%2B%2B,html,processing,ruby,cmake,makefile,scss,stylus,blade,typescript,arduino,jupyter%20notebook,css,shell,batchfile,dockerfile,C++&show_icons=true&hide_progress=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dnutiu&hide=c%2B%2B,html,processing,ruby,cmake,makefile,scss,stylus,blade,typescript,arduino,jupyter%20notebook,css,shell,batchfile,dockerfile,C++,C%23&show_icons=true&hide_progress=true)
 
 <hr>
 <p>
