@@ -1,7 +1,7 @@
 # Hi there 👋
 ## 🧑‍💻 I’m Denis, a professional Software Engineer. ✨.
 
-I've dabbled in a lot of programming languages and technologies. 
+On my GitHub I host my personal projects and my blog.
 
 You can read my personal blog at [https://nuculabs.dev](https://blog.nuculabs.dev) on which I write various technical posts 💬.
 
