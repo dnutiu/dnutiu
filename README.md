@@ -8,6 +8,7 @@ You can read my personal blog at [https://nuculabs.dev](https://blog.nuculabs.de
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dnutiu&hide=c%2B%2B,html,processing,ruby,cmake,makefile,scss,stylus,blade,typescript,arduino,jupyter%20notebook,css,shell,batchfile,dockerfile,C++&show_icons=true&hide_progress=true)
 
+<hr>
 <p>
 <b>Programming Languages:</b>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="40" />
