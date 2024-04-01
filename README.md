@@ -1,5 +1,5 @@
 # Hi there 👋
-## 🧑‍💻 I’m Denis, a professional Software Engineer. ✨.
+## 🧑‍💻 I’m Denis, a Software Engineer. ✨.
 
 On my GitHub I host my personal projects and my blog.
 
