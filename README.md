@@ -1,5 +1,5 @@
 # Hello 👋
-I’m Denis, a Software Engineer. On my GitHub account I host my personal projects and my blog.
+I’m Denis, a Software Engineer. On my GitHub account I host my personal projects.
 
 You can read my blog at [https://nuculabs.dev](https://blog.nuculabs.dev). I write various technical posts 💬.
 
