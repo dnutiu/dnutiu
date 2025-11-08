@@ -1,9 +1,10 @@
 # Hello 👋
-I’m Denis, a Software Engineer. On my GitHub account I host my personal projects.
+
+I’m a professional software engineer with 10 years of experience, and I work mainly as a full stack developer. I also do DevOps, mainly working with Kubernetes, creating and configuring Helm charts and implementing observability solutions or testing pipelines.
 
 You can read my blog at [https://nuculabs.dev](https://blog.nuculabs.dev). I write various technical posts 💬.
 
-I also have a [PRIVATE Git (Forgejo) Server](https://forge.nuculabs.dev/dnutiu) instance on which I host all my projects.
+I also have a [private Git server](https://forge.nuculabs.dev/dnutiu) instance on which I host all my projects.
 
 ![https://github.com/jstrieb/github-stats](https://raw.githubusercontent.com/dnutiu/gh-stats/master/generated/overview.svg)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dnutiu&hide=c%2B%2B,html,processing,ruby,cmake,makefile,scss,stylus,blade,typescript,arduino,jupyter%20notebook,css,shell,batchfile,dockerfile,C++,C%23&show_icons=true&hide_progress=true)
