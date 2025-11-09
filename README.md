@@ -35,4 +35,5 @@ I worked as an individual contributor and lead on projects which include:
 - Distributed and stream processing jobs with Apache Flink and Java.
 
 🌍 Only interested in remote work.
-📧 Email: dnutiu@nuculabs.dev
+
+📧 Email: dnutiu at nuculabs.dev
